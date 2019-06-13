@@ -1,0 +1,8 @@
+﻿  massive merge sort.cpp
+D:\source\repos c++\massive merge sort\massive merge sort.cpp(41,1): warning C4326:  возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода
+  1 of 13 functions ( 7.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  massive merge sort.vcxproj -> D:\source\repos c++\massive merge sort\x64\Release\massive merge sort.exe
